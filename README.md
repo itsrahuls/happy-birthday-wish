@@ -11,7 +11,7 @@ A beautiful and interactive birthday surprise web experience built with HTML, CS
 -  Typing effect message
 -  Fully responsive design
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3
