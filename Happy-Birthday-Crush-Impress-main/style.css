@@ -141,6 +141,8 @@ p {
     cursor: pointer;
     box-shadow: 0 0 40px rgba(255, 64, 129, 0.6);
     transition: all 0.3s;
+    -webkit-tap-highlight-color: transparent;
+    tap-highlight-color: transparent;
 }
 
 .heart:hover {
