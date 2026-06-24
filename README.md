@@ -1,6 +1,6 @@
 # 🎂 Happy Birthday Wish
 
-A beautiful and interactive birthday surprise web experience built with HTML, CSS, and JavaScript. 💕
+A beautiful and interactive birthday surprise web experience built with HTML, CSS, and JavaScript. 
 
 ## ✨ Features
 
